@@ -60,6 +60,8 @@ _This is a database for storing and retriving food Recipies. With several endpoi
 - _npm install sqlite3_
 - _npm install nodemon_
 - _npm install cookie-parse_
+- _npm install path_
+- _npm install router_
 
 - _npm init - is a convenient way of scaffolding your package json you may need to run it everytime you are starting a new project_
 
